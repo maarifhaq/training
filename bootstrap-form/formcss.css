@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 1em;
+}
+.form-holder{
+    width: 70%;
+    margin: auto;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    padding: 2em;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+}
+#formHeading > h2{
+    padding: 0.5em;
+    margin: auto;
+}
